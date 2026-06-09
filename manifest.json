@@ -1,11 +1,11 @@
 {
 	"id": "nyanbar",
 	"name": "NyanBar",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Nyan Cat Progress Bar generator!",
 	"author": "xhyabunny", 
-	"authorUrl": "https://xhyabunny.org",
+	"authorUrl": "https://bonndubz.win",
 	"fundingUrl": "https://paypal.me/xhyabunny",
 	"isDesktopOnly": false
 }
